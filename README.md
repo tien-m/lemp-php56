@@ -1,6 +1,6 @@
 ## Getting Started
 
-Docker composer lemp stack include php custom extensions
+Docker composer lemp stack
 
 ### Prerequisites
 
